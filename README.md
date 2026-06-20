@@ -25,4 +25,4 @@ Communication Psychology graduate with a multidisciplinary background spanning t
 - AI Applications
 
 ## Connect with me
-- LinkedIn: [https://www.linkedin.com/in/alex-priori-9305a7315 ]
+- LinkedIn: [click here](https://www.linkedin.com/in/alex-priori-9305a7315)
