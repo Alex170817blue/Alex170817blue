@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Alex 🔵
 
-<!--
-**Alex170817blue/Alex170817blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Communication Psychology graduate with a multidisciplinary background spanning technology, operations, data management, and digital communication.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- JavaScript
+- React
+- Node.js
+- PostgreSQL
+- Linux
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Telegram Bot (Python)
+- AI-powered React App with Ollama
+- PostgreSQL + Vanilla JavaScript Web Application
+
+## Interests
+- Data Analysis
+- Web Development
+- Technical Analysis
+- CRM / Salesforce
+- Process Optimization
+- AI Applications
+
+## Connect with me
+- LinkedIn: [https://www.linkedin.com/in/alex-priori-9305a7315 ]
