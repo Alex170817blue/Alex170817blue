@@ -20,7 +20,6 @@ Communication Psychology graduate with a multidisciplinary background spanning t
 - Data Analysis
 - Web Development
 - Technical Analysis
-- CRM / Salesforce
 - Process Optimization
 - AI Applications
 
