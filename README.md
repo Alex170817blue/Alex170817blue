@@ -4,10 +4,10 @@ Communication Psychology graduate with a multidisciplinary background spanning t
 
 ## Tech Stack
 - Python
-- JavaScript
 - React
 - Node.js
-- PostgreSQL
+- JavaScript
+- MySQL / PostgreSQL
 - Linux
 - NLP
 
