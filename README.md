@@ -8,6 +8,7 @@ Communication Psychology graduate with a multidisciplinary background spanning t
 - Node.js
 - JavaScript
 - MySQL / PostgreSQL
+- PHP
 - Linux
 - NLP
 
