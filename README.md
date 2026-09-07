@@ -12,9 +12,10 @@ Communication Psychology graduate with a multidisciplinary background spanning t
 - Linux
 - NLP
 
-## Featured Projects
+## Projects
 - Telegram Bot (Python)
-- AI-powered React App with Ollama
+- React Apps, one AI powered with Ollama
+- Medallion Architecture-based data pipeline
 - PostgreSQL + Vanilla JavaScript Web Application
 
 ## Interests
